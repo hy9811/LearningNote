@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b5b57ae6d97ef443",
+        "id": "81dc077f5ed4ff3d",
         "type": "tabs",
         "children": [
           {
-            "id": "6d9e8a8f7575aaa7",
+            "id": "e5b3e764ae535d48",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOS 修練坊/BIOS 修練坊.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "BIOS 修練坊"
+              "title": "新分頁"
             }
           }
         ]
@@ -177,10 +173,10 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "6d9e8a8f7575aaa7",
+  "active": "ffc2a610307df310",
   "lastOpenFiles": [
-    "Linux/基本概念.md",
     "BIOS 修練坊/BIOS 修練坊.md",
+    "Linux/基本概念.md",
     "BIOS 修練坊",
     "untitled folder",
     "BIOS 修練坊 25dbe733ba04801d9671f1046d6e458c.md",
