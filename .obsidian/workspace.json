@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Net Core/Net Core.md",
+                "file": "Basic SQL/Basic SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Net Core"
+              "title": "Basic SQL"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 443.5
   },
   "right": {
     "id": "64699ebc3a024c15",
@@ -179,8 +179,17 @@
   },
   "active": "6d9e8a8f7575aaa7",
   "lastOpenFiles": [
-    "Net Core/Net Core UI.md",
     "Net Core/Net Core.md",
+    "Basic SQL/Basic SQL.md",
+    "Basic SQL/SQL 基本語法.md",
+    "Basic SQL/功能相依性 Functional Dependency.md",
+    "Basic SQL/無損分解.md",
+    "Basic SQL/正規化 Normalization.md",
+    "Basic SQL/正規化補充 Additional of normalization.md",
+    "Basic SQL/關聯鍵.md",
+    "Basic SQL",
+    "Basic SQL 25dbe733ba0481e3a0d4f8876edaa890.md",
+    "Net Core/Net Core UI.md",
     "Net Core/MVC/MVC Share cshtml/Untitled.png",
     "Net Core/Blazor/Blazor 使用 RCL/Untitled.png",
     "Net Core/MVC/MVC Share cshtml/Untitled 1.png",
