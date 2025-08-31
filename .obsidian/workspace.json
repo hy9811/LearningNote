@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "ae06b154d90fa45f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6216cb9eb4eee674",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "999b32bef2ddf3a8",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Net Core/MVC/View Component.md",
+                "bFile": "Net Core/MVC/View Component.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: View Component"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64f35acf4698e2c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a772d0d60092998",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ff29f56a31a4438",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "90ef569c7165766e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "b87a908b63501cb6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248.5
+  },
+  "right": {
+    "id": "64699ebc3a024c15",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0f27f1b7d2dad9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ade567f530a88f8f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向連結"
+            }
+          },
+          {
+            "id": "73b615e96c6024d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "對外連結"
+            }
+          },
+          {
+            "id": "f54cd90696aa3b5b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "b472d2b9266dd1d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大綱"
+            }
+          },
+          {
+            "id": "ffc2a610307df310",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "bases:建立新的 base": false
+    }
+  },
+  "active": "999b32bef2ddf3a8",
+  "lastOpenFiles": [
+    "Net Core/MVC/MVC Share cshtml/Untitled.png",
+    "Net Core/Blazor/Blazor 使用 RCL/Untitled.png",
+    "Net Core/MVC/MVC Share cshtml/Untitled 1.png",
+    "Net Core/Blazor/Blazor 使用 RCL/Untitled 1.png",
+    "Net Core/MVC.md",
+    "Net Core.md",
+    "Net Core/Blazor.md",
+    "Net Core/Blazor/Blazor 使用 RCL.md",
+    "Net Core/Net Core UI.md",
+    "Net Core/Basic.md",
+    "Net Core/Swagger.md",
+    "Net Core/Razor/Razor 語法.md",
+    "Net Core/Razor/Razor Component.md",
+    "Net Core/MVC/View Component.md",
+    "Net Core/MVC/MVC Share cshtml.md",
+    "Net Core/Blazor/Blazor 基本.md",
+    "Net Core/TagHelper.md",
+    "Net Core/WebAPI.md",
+    "Net Core/Razor/Razor Pages.md",
+    "Net Core/Razor/Razor Component Library.md",
+    "Net Core/Razor",
+    "Net Core/MVC/MVC Share cshtml",
+    "Net Core/MVC",
+    "Net Core/Blazor/Blazor 使用 RCL",
+    "Net Core/Blazor",
+    "Net Core/Razor.md",
+    "Net Core",
+    "未命名"
+  ]
+}
