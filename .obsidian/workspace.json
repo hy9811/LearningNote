@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic SQL/Basic SQL.md",
-                "mode": "source",
+                "file": "Android Development Knowledge/Android Development Knowledge.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic SQL"
+              "title": "Android Development Knowledge"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.5
+    "width": 240.5
   },
   "right": {
     "id": "64699ebc3a024c15",
@@ -179,8 +179,28 @@
   },
   "active": "6d9e8a8f7575aaa7",
   "lastOpenFiles": [
-    "Net Core/Net Core.md",
+    "Android Development Knowledge/AppBarLayout.md",
+    "Android Development Knowledge/Android Development Knowledge.md",
+    "Android Development Knowledge/TableLayout.md",
+    "Android Development Knowledge/View Group Family Tree.md",
+    "Android Development Knowledge/View Group Family Tree/Untitled_diagram___Mermaid_Chart-2025-08-29-015859.png",
+    "Android Development Knowledge/Jetpack Compose 對照.md",
+    "Kubernetes/Kubernetes.md",
+    "Android Development Knowledge/Layout 常見誤用與排查.md",
+    "Android Development Knowledge/View Group Family Tree",
+    "Android Development Knowledge/RelativeLayout.md",
+    "Android Development Knowledge/ConstraintLayout.md",
+    "Android Development Knowledge/CoordinatorLayout.md",
+    "Android Development Knowledge/GridLayout.md",
+    "Android Development Knowledge/LinearLayout.md",
+    "Android Development Knowledge/FrameLayout.md",
+    "Android Development Knowledge",
+    "Android Development Knowledge 25dbe733ba0481b98d19ddda7fc1f726.md",
+    "Kubernetes/Screenshot_2025-01-05_at_1.12.18_PM.png",
     "Basic SQL/Basic SQL.md",
+    "Kubernetes",
+    "Kubernetes 25ebe733ba0481928260cc0a5fc329a5.md",
+    "Net Core/Net Core.md",
     "Basic SQL/SQL 基本語法.md",
     "Basic SQL/功能相依性 Functional Dependency.md",
     "Basic SQL/無損分解.md",
@@ -194,27 +214,11 @@
     "Net Core/Blazor/Blazor 使用 RCL/Untitled.png",
     "Net Core/MVC/MVC Share cshtml/Untitled 1.png",
     "Net Core/Blazor/Blazor 使用 RCL/Untitled 1.png",
-    "Net Core/MVC.md",
-    "Net Core/Blazor.md",
-    "Net Core/Blazor/Blazor 使用 RCL.md",
-    "Net Core/Basic.md",
-    "Net Core/Swagger.md",
-    "Net Core/Razor/Razor 語法.md",
-    "Net Core/Razor/Razor Component.md",
-    "Net Core/MVC/View Component.md",
-    "Net Core/MVC/MVC Share cshtml.md",
-    "Net Core/Blazor/Blazor 基本.md",
-    "Net Core/TagHelper.md",
-    "Net Core/WebAPI.md",
-    "Net Core/Razor/Razor Pages.md",
-    "Net Core/Razor/Razor Component Library.md",
     "Net Core/Razor",
     "Net Core/MVC/MVC Share cshtml",
     "Net Core/MVC",
     "Net Core/Blazor/Blazor 使用 RCL",
     "Net Core/Blazor",
-    "Net Core/Razor.md",
-    "Net Core",
-    "未命名"
+    "Net Core"
   ]
 }
