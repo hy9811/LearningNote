@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6216cb9eb4eee674",
+        "id": "b5b57ae6d97ef443",
         "type": "tabs",
         "children": [
           {
-            "id": "999b32bef2ddf3a8",
+            "id": "6d9e8a8f7575aaa7",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Net Core/MVC/View Component.md",
-                "bFile": "Net Core/MVC/View Component.md",
-                "aRef": ""
+                "file": "Net Core/Net Core.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: View Component"
+              "icon": "lucide-file",
+              "title": "Net Core"
             }
           }
         ]
@@ -177,17 +177,17 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "999b32bef2ddf3a8",
+  "active": "6d9e8a8f7575aaa7",
   "lastOpenFiles": [
+    "Net Core/Net Core UI.md",
+    "Net Core/Net Core.md",
     "Net Core/MVC/MVC Share cshtml/Untitled.png",
     "Net Core/Blazor/Blazor 使用 RCL/Untitled.png",
     "Net Core/MVC/MVC Share cshtml/Untitled 1.png",
     "Net Core/Blazor/Blazor 使用 RCL/Untitled 1.png",
     "Net Core/MVC.md",
-    "Net Core.md",
     "Net Core/Blazor.md",
     "Net Core/Blazor/Blazor 使用 RCL.md",
-    "Net Core/Net Core UI.md",
     "Net Core/Basic.md",
     "Net Core/Swagger.md",
     "Net Core/Razor/Razor 語法.md",
