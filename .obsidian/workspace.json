@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/基本概念.md",
+                "file": "BIOS 修練坊/BIOS 修練坊.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基本概念"
+              "title": "BIOS 修練坊"
             }
           }
         ]
@@ -179,12 +179,16 @@
   },
   "active": "6d9e8a8f7575aaa7",
   "lastOpenFiles": [
+    "Linux/基本概念.md",
+    "BIOS 修練坊/BIOS 修練坊.md",
+    "BIOS 修練坊",
+    "untitled folder",
+    "BIOS 修練坊 25dbe733ba04801d9671f1046d6e458c.md",
     "Linux/Linux.md",
     "Android Development Knowledge/Android Development Knowledge.md",
     "Linux/基本概念/Screenshot_2024-12-10_at_9.53.54_PM.png",
     "Linux/基本概念/Screenshot_2024-12-10_at_10.12.06_PM.png",
     "Linux/基本概念",
-    "Linux/基本概念.md",
     "Linux",
     "Linux 25ebe733ba048199a79bfb95f76b4668.md",
     "Android Development Knowledge/AppBarLayout.md",
@@ -212,16 +216,12 @@
     "Basic SQL/功能相依性 Functional Dependency.md",
     "Basic SQL/無損分解.md",
     "Basic SQL/正規化 Normalization.md",
-    "Basic SQL/正規化補充 Additional of normalization.md",
-    "Basic SQL/關聯鍵.md",
     "Basic SQL",
     "Net Core/MVC/MVC Share cshtml/Untitled.png",
     "Net Core/Blazor/Blazor 使用 RCL/Untitled.png",
     "Net Core/MVC/MVC Share cshtml/Untitled 1.png",
     "Net Core/Blazor/Blazor 使用 RCL/Untitled 1.png",
     "Net Core/Razor",
-    "Net Core/MVC/MVC Share cshtml",
-    "Net Core/MVC",
-    "Net Core/Blazor/Blazor 使用 RCL"
+    "Net Core/MVC/MVC Share cshtml"
   ]
 }
